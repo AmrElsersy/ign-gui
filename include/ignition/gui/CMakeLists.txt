@@ -37,6 +37,7 @@ set (headers
   qt.h
   SearchModel.hh
   System.hh
+  PlottingInterface.hh
 )
 
 set (resources resources.qrc)
